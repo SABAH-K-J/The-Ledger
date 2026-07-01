@@ -1,0 +1,21 @@
+# Environments
+venv/
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+*.sqlite3
+
+# IDEs / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Keys
+keys/*.pem
+.DS_Store
